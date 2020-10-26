@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# tic tac toe
 
 ### play with your friends
 
