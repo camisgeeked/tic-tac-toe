@@ -1,5 +1,3 @@
-# tic tac toe
+# Tic-Tac-Toe
 
-### play with your friends
-
-a two player tic tac toe game, no AI to go against you so don't try with one person :)
+1v1 Tic-Tac-Toe game written in C#
